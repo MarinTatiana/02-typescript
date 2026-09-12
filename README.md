@@ -1,3 +1,4 @@
+//Aqui el video explicativo: https://youtu.be/u6n4QMlh7o4
 # Semana 02: Bases de TypeScript & Puente Pedagógico con Java ⚡📱
 ### Programación Móvil — 3° Bachillerato Técnico (2026–2027)
 
@@ -142,3 +143,4 @@ Graba un video de **3 a 5 minutos** (Loom / YouTube No Listado / Google Drive):
 ---
 
 *Módulo Formativo: Aplicaciones Web y Móviles (Programación Móvil) — Unidad Educativa Técnico Salesiano (UETS) 2026–2027.*
+//Aqui el video explicativo: https://youtu.be/u6n4QMlh7o4
